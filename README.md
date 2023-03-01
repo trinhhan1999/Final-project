@@ -1,2 +1,2 @@
 # Final-project
-Kích thước dữ liệu quá lớn nên Dataset nằm trong đường link của file word
+Dataset: https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied
